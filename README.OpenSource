@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "chromium_third_party_vulkan_deps_vulkan_validation_layers",                   # 上游开源软件名全称
+        "License": ,         # 上游开源软件中包含的许可证信息
+        "License File": "LICENSE.txt"     # 许可证所在文件路径
+        "Version Number": "f79e0540ff5f0bf52a39767fd935a9737b6b70a6",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-ValidationLayers@f79e0540ff5f0bf52a39767fd935a9737b6b70a6",   # 上游软件包发布地址
+        "Description": "第三方软件vulkan-deps/vulkan-validation-layers"           # 开源软件功能描述
+    }
+]
