@@ -67,9 +67,11 @@ used to filter file path.
 
             <filefilter name="defaultFilter">
                 <filteritem type="filepath" name="README.OpenSource"
-                    desc="" />
+                    desc="Filter readme.opensource files" />
+            </filefilter>
+            <filefilter name="binaryFileTypePolicyFilter">
                 <filteritem type="filepath" name=".*png"
-                    desc="" />
+                    desc="chromium原生二进制文件，不会使用" />
             </filefilter>
         </filefilterlist>
     </oatconfig>
