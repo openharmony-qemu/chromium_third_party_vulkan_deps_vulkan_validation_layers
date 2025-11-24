@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "Vulkan-ValidationLayers",                  
+        "License": "Apache-2.0",         
+        "License File": "LICENSE.txt",    
+        "Version Number": "bc2c38412f739c298d6f5c076c064e6b5696959f",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-ValidationLayers@bc2c38412f739c298d6f5c076c064e6b5696959f",  
+        "Description": "第三方软件vulkan-deps/vulkan-validation-layers"          
+    }
+]
